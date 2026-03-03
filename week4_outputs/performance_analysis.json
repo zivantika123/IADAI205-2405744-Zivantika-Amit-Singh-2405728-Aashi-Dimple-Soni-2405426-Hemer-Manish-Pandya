@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-03-03T14:08:01.288512",
+    "avg_scores": {
+      "overall": 0.39400000001200003,
+      "gemini_overall": 0.39400000001200003,
+      "rule_overall": 0,
+      "bleu": 0.18000000004,
+      "sentiment": 0.0
+    },
+    "num_evaluations": 5,
+    "gemini_count": 5,
+    "rule_count": 0,
+    "suggestions": [
+      "Enhance training data with more industry-specific examples"
+    ],
+    "top_performer": {
+      "company": "Dasani",
+      "industry": "General",
+      "slogan": "Future, Defined.",
+      "generation_source": "gemini",
+      "bleu_score": 0.3,
+      "sentiment_score": 0,
+      "length_score": 1.0,
+      "overall_score": 0.43000000000000005,
+      "word_count": 2
+    }
+  }
+]

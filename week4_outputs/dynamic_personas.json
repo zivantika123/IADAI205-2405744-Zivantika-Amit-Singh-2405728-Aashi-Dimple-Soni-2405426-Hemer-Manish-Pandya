@@ -1,0 +1,176 @@
+{
+  "Technology": {
+    "tones": [
+      "playful",
+      "minimalist",
+      "innovative"
+    ],
+    "primary_tone": "playful",
+    "keywords": [
+      "babys",
+      "bamboocha",
+      "come",
+      "cup",
+      "customize",
+      "discover",
+      "drink",
+      "everyday",
+      "fanta",
+      "finger"
+    ],
+    "sentiment": "positive",
+    "slogan_patterns": [
+      "mak tim _ tob",
+      "_ _ wit _ _",
+      "mil eve",
+      "fee _ vel",
+      "fin lic goo"
+    ],
+    "success_score": 0.7
+  },
+  "Food & Beverage": {
+    "tones": [
+      "playful",
+      "minimalist",
+      "innovative"
+    ],
+    "primary_tone": "playful",
+    "keywords": [
+      "babys",
+      "bamboocha",
+      "come",
+      "cup",
+      "customize",
+      "discover",
+      "drink",
+      "everyday",
+      "fanta",
+      "finger"
+    ],
+    "sentiment": "positive",
+    "slogan_patterns": [
+      "mak tim _ tob",
+      "_ _ wit _ _",
+      "mil eve",
+      "fee _ vel",
+      "fin lic goo"
+    ],
+    "success_score": 0.7
+  },
+  "Fashion": {
+    "tones": [
+      "playful",
+      "minimalist",
+      "innovative"
+    ],
+    "primary_tone": "playful",
+    "keywords": [
+      "babys",
+      "bamboocha",
+      "come",
+      "cup",
+      "customize",
+      "discover",
+      "drink",
+      "everyday",
+      "fanta",
+      "finger"
+    ],
+    "sentiment": "positive",
+    "slogan_patterns": [
+      "mak tim _ tob",
+      "_ _ wit _ _",
+      "mil eve",
+      "fee _ vel",
+      "fin lic goo"
+    ],
+    "success_score": 0.7
+  },
+  "Healthcare": {
+    "tones": [
+      "playful",
+      "minimalist",
+      "innovative"
+    ],
+    "primary_tone": "playful",
+    "keywords": [
+      "babys",
+      "bamboocha",
+      "come",
+      "cup",
+      "customize",
+      "discover",
+      "drink",
+      "everyday",
+      "fanta",
+      "finger"
+    ],
+    "sentiment": "positive",
+    "slogan_patterns": [
+      "mak tim _ tob",
+      "_ _ wit _ _",
+      "mil eve",
+      "fee _ vel",
+      "fin lic goo"
+    ],
+    "success_score": 0.7
+  },
+  "Finance": {
+    "tones": [
+      "playful",
+      "minimalist",
+      "innovative"
+    ],
+    "primary_tone": "playful",
+    "keywords": [
+      "babys",
+      "bamboocha",
+      "come",
+      "cup",
+      "customize",
+      "discover",
+      "drink",
+      "everyday",
+      "fanta",
+      "finger"
+    ],
+    "sentiment": "positive",
+    "slogan_patterns": [
+      "mak tim _ tob",
+      "_ _ wit _ _",
+      "mil eve",
+      "fee _ vel",
+      "fin lic goo"
+    ],
+    "success_score": 0.7
+  },
+  "Education": {
+    "tones": [
+      "playful",
+      "minimalist",
+      "innovative"
+    ],
+    "primary_tone": "playful",
+    "keywords": [
+      "babys",
+      "bamboocha",
+      "come",
+      "cup",
+      "customize",
+      "discover",
+      "drink",
+      "everyday",
+      "fanta",
+      "finger"
+    ],
+    "sentiment": "positive",
+    "slogan_patterns": [
+      "mak tim _ tob",
+      "_ _ wit _ _",
+      "mil eve",
+      "fee _ vel",
+      "fin lic goo"
+    ],
+    "success_score": 0.7
+  }
+}

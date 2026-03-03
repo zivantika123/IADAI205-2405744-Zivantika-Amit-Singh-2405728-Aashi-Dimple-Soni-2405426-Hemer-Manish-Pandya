@@ -1,0 +1,511 @@
+image_file,rank,hex,rgb,percentage,color_name,brand_personality
+83.jpg,1,#141311,"(20, 19, 17)",33.43,Black,Luxury / Powerful
+83.jpg,2,#6a5b55,"(106, 91, 85)",24.22,Mixed,Custom Branding
+83.jpg,3,#423630,"(66, 54, 48)",22.4,Mixed,Custom Branding
+83.jpg,4,#9d787e,"(157, 120, 126)",13.71,Mixed,Custom Branding
+83.jpg,5,#d9d2d2,"(217, 210, 210)",6.24,White,Minimal / Clean
+88.jpg,1,#fbfdfa,"(251, 253, 250)",86.75,White,Minimal / Clean
+88.jpg,2,#a9b7c1,"(169, 183, 193)",4.52,Mixed,Custom Branding
+88.jpg,3,#cedee5,"(206, 222, 229)",3.47,White,Minimal / Clean
+88.jpg,4,#10528a,"(16, 82, 138)",3.11,Mixed,Custom Branding
+88.jpg,5,#6a8da5,"(106, 141, 165)",2.15,Blue,Trust / Professional
+35.jpg,1,#faf9f9,"(250, 249, 249)",51.78,White,Minimal / Clean
+35.jpg,2,#df2029,"(223, 32, 41)",28.59,Red,Bold / Energetic
+35.jpg,3,#c8acac,"(200, 172, 172)",7.38,Mixed,Custom Branding
+35.jpg,4,#1a0d0d,"(26, 13, 13)",7.14,Black,Luxury / Powerful
+35.jpg,5,#524849,"(82, 72, 73)",5.12,Mixed,Custom Branding
+21.jpg,1,#fbfcfa,"(251, 252, 250)",84.83,White,Minimal / Clean
+21.jpg,2,#080707,"(8, 7, 7)",6.5,Black,Luxury / Powerful
+21.jpg,3,#bab9b9,"(186, 185, 185)",3.58,Mixed,Custom Branding
+21.jpg,4,#747373,"(116, 115, 115)",2.59,Mixed,Custom Branding
+21.jpg,5,#313030,"(49, 48, 48)",2.51,Black,Luxury / Powerful
+37.jpg,1,#f6f6f6,"(246, 246, 246)",65.46,White,Minimal / Clean
+37.jpg,2,#090909,"(9, 9, 9)",19.3,Black,Luxury / Powerful
+37.jpg,3,#c6c6c6,"(198, 198, 198)",5.71,Mixed,Custom Branding
+37.jpg,4,#444444,"(68, 68, 68)",5.09,Mixed,Custom Branding
+37.jpg,5,#898989,"(137, 137, 137)",4.45,Mixed,Custom Branding
+2.jpg,1,#f7fbf8,"(247, 251, 248)",68.36,White,Minimal / Clean
+2.jpg,2,#157c47,"(21, 124, 71)",13.89,Mixed,Custom Branding
+2.jpg,3,#a2d4bd,"(162, 212, 189)",7.71,Mixed,Custom Branding
+2.jpg,4,#f6cb46,"(246, 203, 70)",5.27,Yellow,Optimistic / Creative
+2.jpg,5,#5a9f7c,"(90, 159, 124)",4.78,Green,Growth / Eco
+31.jpg,1,#f8f8f8,"(248, 248, 248)",61.54,White,Minimal / Clean
+31.jpg,2,#0b0b13,"(11, 11, 19)",13.35,Black,Luxury / Powerful
+31.jpg,3,#acaeb8,"(172, 174, 184)",12.53,Mixed,Custom Branding
+31.jpg,4,#4c4e68,"(76, 78, 104)",8.76,Mixed,Custom Branding
+31.jpg,5,#4970e5,"(73, 112, 229)",3.82,Blue,Trust / Professional
+36jpg.jpg,1,#f7faf8,"(247, 250, 248)",56.74,White,Minimal / Clean
+36jpg.jpg,2,#0d76ed,"(13, 118, 237)",23.89,Blue,Trust / Professional
+36jpg.jpg,3,#e62916,"(230, 41, 22)",11.73,Red,Bold / Energetic
+36jpg.jpg,4,#7eb3e6,"(126, 179, 230)",4.16,Mixed,Custom Branding
+36jpg.jpg,5,#ec9b93,"(236, 155, 147)",3.48,Mixed,Custom Branding
+36.jpg,1,#f3d82a,"(243, 216, 42)",30.15,Yellow,Optimistic / Creative
+36.jpg,2,#bf941b,"(191, 148, 27)",21.51,Mixed,Custom Branding
+36.jpg,3,#352f26,"(53, 47, 38)",19.3,Black,Luxury / Powerful
+36.jpg,4,#f8f9f6,"(248, 249, 246)",18.33,White,Minimal / Clean
+36.jpg,5,#806f37,"(128, 111, 55)",10.71,Mixed,Custom Branding
+60.jpg,1,#19231d,"(25, 35, 29)",26.94,Black,Luxury / Powerful
+60.jpg,2,#a3bfaa,"(163, 191, 170)",20.95,Mixed,Custom Branding
+60.jpg,3,#42534a,"(66, 83, 74)",20.18,Mixed,Custom Branding
+60.jpg,4,#71867a,"(113, 134, 122)",17.14,Mixed,Custom Branding
+60.jpg,5,#d8e8d5,"(216, 232, 213)",14.8,White,Minimal / Clean
+55.jpg,1,#f5fcfb,"(245, 252, 251)",58.18,White,Minimal / Clean
+55.jpg,2,#168f86,"(22, 143, 134)",21.85,Teal,Sophisticated / Balanced
+55.jpg,3,#abdcd9,"(171, 220, 217)",7.39,Mixed,Custom Branding
+55.jpg,4,#6bb2ac,"(107, 178, 172)",7.08,Mixed,Custom Branding
+55.jpg,5,#0e4b51,"(14, 75, 81)",5.51,Mixed,Custom Branding
+52jpg.jpg,1,#fcfafa,"(252, 250, 250)",53.4,White,Minimal / Clean
+52jpg.jpg,2,#d51328,"(213, 19, 40)",27.46,Red,Bold / Energetic
+52jpg.jpg,3,#b12d3c,"(177, 45, 60)",8.47,Mixed,Custom Branding
+52jpg.jpg,4,#f0b8bb,"(240, 184, 187)",5.88,Mixed,Custom Branding
+52jpg.jpg,5,#ce727a,"(206, 114, 122)",4.79,Mixed,Custom Branding
+63jpg.jpg,1,#f8f6f3,"(248, 246, 243)",51.47,White,Minimal / Clean
+63jpg.jpg,2,#1b3b5d,"(27, 59, 93)",16.54,Mixed,Custom Branding
+63jpg.jpg,3,#e4c4bf,"(228, 196, 191)",14.04,Mixed,Custom Branding
+63jpg.jpg,4,#b39190,"(179, 145, 144)",9.35,Mixed,Custom Branding
+63jpg.jpg,5,#bb5948,"(187, 89, 72)",8.6,Mixed,Custom Branding
+50jpg.jpg,1,#fbf9f8,"(251, 249, 248)",46.61,White,Minimal / Clean
+50jpg.jpg,2,#c00506,"(192, 5, 6)",36.19,Mixed,Custom Branding
+50jpg.jpg,3,#ac2c2f,"(172, 44, 47)",6.35,Mixed,Custom Branding
+50jpg.jpg,4,#f2bebb,"(242, 190, 187)",5.95,Mixed,Custom Branding
+50jpg.jpg,5,#ce7475,"(206, 116, 117)",4.9,Mixed,Custom Branding
+93.jpg,1,#f5f9f7,"(245, 249, 247)",65.0,White,Minimal / Clean
+93.jpg,2,#2c5abc,"(44, 90, 188)",15.9,Blue,Trust / Professional
+93.jpg,3,#98b5df,"(152, 181, 223)",8.25,Mixed,Custom Branding
+93.jpg,4,#ea861f,"(234, 134, 31)",7.68,Orange,Friendly / Energetic
+93.jpg,5,#edc890,"(237, 200, 144)",3.16,Mixed,Custom Branding
+45jpg.jpg,1,#f8faf9,"(248, 250, 249)",58.48,White,Minimal / Clean
+45jpg.jpg,2,#0f548f,"(15, 84, 143)",18.15,Mixed,Custom Branding
+45jpg.jpg,3,#bab3b3,"(186, 179, 179)",9.32,Mixed,Custom Branding
+45jpg.jpg,4,#7d6969,"(125, 105, 105)",8.6,Mixed,Custom Branding
+45jpg.jpg,5,#1f1f1f,"(31, 31, 31)",5.44,Black,Luxury / Powerful
+25.jpg,1,#f7faf8,"(247, 250, 248)",44.12,White,Minimal / Clean
+25.jpg,2,#2d4738,"(45, 71, 56)",20.14,Mixed,Custom Branding
+25.jpg,3,#ccd6d0,"(204, 214, 208)",13.37,White,Minimal / Clean
+25.jpg,4,#617269,"(97, 114, 105)",11.38,Teal,Sophisticated / Balanced
+25.jpg,5,#9ba7a0,"(155, 167, 160)",11.0,Mixed,Custom Branding
+77.jpg,1,#f9f6f3,"(249, 246, 243)",42.89,White,Minimal / Clean
+77.jpg,2,#ae322b,"(174, 50, 43)",20.39,Mixed,Custom Branding
+77.jpg,3,#2b1c13,"(43, 28, 19)",12.69,Black,Luxury / Powerful
+77.jpg,4,#d1b6ac,"(209, 182, 172)",12.61,Mixed,Custom Branding
+77.jpg,5,#ac756c,"(172, 117, 108)",11.42,Mixed,Custom Branding
+4.jpg,1,#fafafa,"(250, 250, 250)",68.08,White,Minimal / Clean
+4.jpg,2,#433d9e,"(67, 61, 158)",13.22,Blue,Trust / Professional
+4.jpg,3,#c9c5d7,"(201, 197, 215)",9.34,Mixed,Custom Branding
+4.jpg,4,#918db0,"(145, 141, 176)",8.26,Blue,Trust / Professional
+4.jpg,5,#d22629,"(210, 38, 41)",1.1,Red,Bold / Energetic
+37jpg.jpg,1,#e6e9ec,"(230, 233, 236)",49.94,White,Minimal / Clean
+37jpg.jpg,2,#f8f9fa,"(248, 249, 250)",24.04,White,Minimal / Clean
+37jpg.jpg,3,#ced1d3,"(206, 209, 211)",14.04,White,Minimal / Clean
+37jpg.jpg,4,#b1b5ac,"(177, 181, 172)",7.92,Mixed,Custom Branding
+37jpg.jpg,5,#857580,"(133, 117, 128)",4.06,Mixed,Custom Branding
+1.jpg,1,#f6d913,"(246, 217, 19)",39.55,Yellow,Optimistic / Creative
+1.jpg,2,#bf2a41,"(191, 42, 65)",22.43,Mixed,Custom Branding
+1.jpg,3,#faf7f7,"(250, 247, 247)",20.08,White,Minimal / Clean
+1.jpg,4,#e6b785,"(230, 183, 133)",15.17,Mixed,Custom Branding
+1.jpg,5,#32302f,"(50, 48, 47)",2.77,Black,Luxury / Powerful
+76.jpg,1,#f5f7f5,"(245, 247, 245)",47.79,White,Minimal / Clean
+76.jpg,2,#bdbeb4,"(189, 190, 180)",16.83,Mixed,Custom Branding
+76.jpg,3,#bfaf4e,"(191, 175, 78)",13.74,Mixed,Custom Branding
+76.jpg,4,#737374,"(115, 115, 116)",12.02,Mixed,Custom Branding
+76.jpg,5,#262728,"(38, 39, 40)",9.62,Black,Luxury / Powerful
+49.jpg,1,#f9fafa,"(249, 250, 250)",32.41,White,Minimal / Clean
+49.jpg,2,#d8def0,"(216, 222, 240)",23.44,White,Minimal / Clean
+49.jpg,3,#1a346e,"(26, 52, 110)",23.35,Mixed,Custom Branding
+49.jpg,4,#a1aac4,"(161, 170, 196)",11.68,Mixed,Custom Branding
+49.jpg,5,#69779a,"(105, 119, 154)",9.12,Blue,Trust / Professional
+23.jpg,1,#f2f4f4,"(242, 244, 244)",39.17,White,Minimal / Clean
+23.jpg,2,#9e9ea0,"(158, 158, 160)",20.87,Mixed,Custom Branding
+23.jpg,3,#070707,"(7, 7, 7)",17.96,Black,Luxury / Powerful
+23.jpg,4,#3c5777,"(60, 87, 119)",17.84,Mixed,Custom Branding
+23.jpg,5,#c15b47,"(193, 91, 71)",4.15,Mixed,Custom Branding
+86.jpg,1,#b38d89,"(179, 141, 137)",32.39,Mixed,Custom Branding
+86.jpg,2,#3f2219,"(63, 34, 25)",22.53,Mixed,Custom Branding
+86.jpg,3,#7b5956,"(123, 89, 86)",19.58,Mixed,Custom Branding
+86.jpg,4,#eccdc1,"(236, 205, 193)",15.23,Mixed,Custom Branding
+86.jpg,5,#c78e24,"(199, 142, 36)",10.27,Mixed,Custom Branding
+74.jpg,1,#0e6fbe,"(14, 111, 190)",57.74,Blue,Trust / Professional
+74.jpg,2,#164770,"(22, 71, 112)",15.81,Mixed,Custom Branding
+74.jpg,3,#e5ca4a,"(229, 202, 74)",11.23,Yellow,Optimistic / Creative
+74.jpg,4,#c4d7bc,"(196, 215, 188)",8.1,Mixed,Custom Branding
+74.jpg,5,#6c909f,"(108, 144, 159)",7.12,Blue,Trust / Professional
+5.jpg,1,#f8fcf8,"(248, 252, 248)",59.44,White,Minimal / Clean
+5.jpg,2,#8fb97a,"(143, 185, 122)",11.67,Green,Growth / Eco
+5.jpg,3,#aecba6,"(174, 203, 166)",10.4,Mixed,Custom Branding
+5.jpg,4,#d6ead1,"(214, 234, 209)",10.01,White,Minimal / Clean
+5.jpg,5,#4d7960,"(77, 121, 96)",8.49,Mixed,Custom Branding
+8jpg.jpg,1,#070807,"(7, 8, 7)",62.81,Black,Luxury / Powerful
+8jpg.jpg,2,#f9faf9,"(249, 250, 249)",18.91,White,Minimal / Clean
+8jpg.jpg,3,#7d7e7d,"(125, 126, 125)",8.72,Mixed,Custom Branding
+8jpg.jpg,4,#c0c0c0,"(192, 192, 192)",5.7,Mixed,Custom Branding
+8jpg.jpg,5,#4a4a4a,"(74, 74, 74)",3.87,Mixed,Custom Branding
+24.jpg,1,#f2f3f3,"(242, 243, 243)",41.76,White,Minimal / Clean
+24.jpg,2,#c8ccce,"(200, 204, 206)",26.63,Mixed,Custom Branding
+24.jpg,3,#9ea6a6,"(158, 166, 166)",13.93,Mixed,Custom Branding
+24.jpg,4,#5c7b74,"(92, 123, 116)",11.48,Teal,Sophisticated / Balanced
+24.jpg,5,#314541,"(49, 69, 65)",6.21,Mixed,Custom Branding
+10.jpg,1,#c4dcd1,"(196, 220, 209)",53.44,Mixed,Custom Branding
+10.jpg,2,#cee4dc,"(206, 228, 220)",30.24,White,Minimal / Clean
+10.jpg,3,#b1c0b8,"(177, 192, 184)",8.81,Mixed,Custom Branding
+10.jpg,4,#8f988f,"(143, 152, 143)",4.99,Green,Growth / Eco
+10.jpg,5,#884441,"(136, 68, 65)",2.52,Mixed,Custom Branding
+8.jpg,1,#f2f2f2,"(242, 242, 242)",45.61,White,Minimal / Clean
+8.jpg,2,#c7c3be,"(199, 195, 190)",22.91,Mixed,Custom Branding
+8.jpg,3,#8d8794,"(141, 135, 148)",15.8,Mixed,Custom Branding
+8.jpg,4,#554d49,"(85, 77, 73)",11.89,Mixed,Custom Branding
+8.jpg,5,#b25d30,"(178, 93, 48)",3.79,Mixed,Custom Branding
+17jpg.jpg,1,#f8fbfb,"(248, 251, 251)",67.23,White,Minimal / Clean
+17jpg.jpg,2,#cae0e3,"(202, 224, 227)",11.9,White,Minimal / Clean
+17jpg.jpg,3,#557d86,"(85, 125, 134)",10.7,Teal,Sophisticated / Balanced
+17jpg.jpg,4,#8eadb2,"(142, 173, 178)",7.95,Mixed,Custom Branding
+17jpg.jpg,5,#dfac77,"(223, 172, 119)",2.21,Mixed,Custom Branding
+48jpg.jpg,1,#018131,"(1, 129, 49)",82.24,Mixed,Custom Branding
+48jpg.jpg,2,#f7fcf9,"(247, 252, 249)",12.07,White,Minimal / Clean
+48jpg.jpg,3,#1c753b,"(28, 117, 59)",3.27,Mixed,Custom Branding
+48jpg.jpg,4,#78b18b,"(120, 177, 139)",1.44,Green,Growth / Eco
+48jpg.jpg,5,#bae5c7,"(186, 229, 199)",0.99,Mixed,Custom Branding
+47.jpg,1,#f51707,"(245, 23, 7)",38.89,Red,Bold / Energetic
+47.jpg,2,#eaad5e,"(234, 173, 94)",18.1,Orange,Friendly / Energetic
+47.jpg,3,#d86742,"(216, 103, 66)",17.89,Orange,Friendly / Energetic
+47.jpg,4,#f5d8ae,"(245, 216, 174)",13.7,Mixed,Custom Branding
+47.jpg,5,#7e3e1f,"(126, 62, 31)",11.42,Mixed,Custom Branding
+29.jpg,1,#fbf9f9,"(251, 249, 249)",48.57,White,Minimal / Clean
+29.jpg,2,#cb263e,"(203, 38, 62)",33.0,Red,Bold / Energetic
+29.jpg,3,#aa3c51,"(170, 60, 81)",8.56,Mixed,Custom Branding
+29.jpg,4,#f0bfc6,"(240, 191, 198)",5.41,Mixed,Custom Branding
+29.jpg,5,#c97c89,"(201, 124, 137)",4.47,Mixed,Custom Branding
+34.jpg,1,#f9f9f9,"(249, 249, 249)",53.06,White,Minimal / Clean
+34.jpg,2,#1e1e1e,"(30, 30, 30)",21.85,Black,Luxury / Powerful
+34.jpg,3,#c9c9c9,"(201, 201, 201)",11.62,White,Minimal / Clean
+34.jpg,4,#515050,"(81, 80, 80)",6.94,Mixed,Custom Branding
+34.jpg,5,#919191,"(145, 145, 145)",6.55,Mixed,Custom Branding
+58.jpg,1,#fbfbfb,"(251, 251, 251)",71.11,White,Minimal / Clean
+58.jpg,2,#e5e5e5,"(229, 229, 229)",20.39,White,Minimal / Clean
+58.jpg,3,#c3c3c3,"(195, 195, 195)",3.84,Mixed,Custom Branding
+58.jpg,4,#6b6b6b,"(107, 107, 107)",2.35,Mixed,Custom Branding
+58.jpg,5,#222222,"(34, 34, 34)",2.3,Black,Luxury / Powerful
+9.jpg,1,#4b1b0a,"(75, 27, 10)",40.4,Mixed,Custom Branding
+9.jpg,2,#0c0405,"(12, 4, 5)",21.45,Black,Luxury / Powerful
+9.jpg,3,#b58f59,"(181, 143, 89)",17.4,Mixed,Custom Branding
+9.jpg,4,#583f2b,"(88, 63, 43)",12.28,Mixed,Custom Branding
+9.jpg,5,#b33822,"(179, 56, 34)",8.47,Mixed,Custom Branding
+27jpg.jpg,1,#fbfbf8,"(251, 251, 248)",46.62,White,Minimal / Clean
+27jpg.jpg,2,#e85e35,"(232, 94, 53)",23.76,Red,Bold / Energetic
+27jpg.jpg,3,#ecb09a,"(236, 176, 154)",17.12,Mixed,Custom Branding
+27jpg.jpg,4,#eed3c6,"(238, 211, 198)",6.58,Mixed,Custom Branding
+27jpg.jpg,5,#e68363,"(230, 131, 99)",5.93,Orange,Friendly / Energetic
+19jpg.jpg,1,#040404,"(4, 4, 4)",54.23,Black,Luxury / Powerful
+19jpg.jpg,2,#595959,"(89, 89, 89)",15.89,Mixed,Custom Branding
+19jpg.jpg,3,#888888,"(136, 136, 136)",12.19,Mixed,Custom Branding
+19jpg.jpg,4,#292929,"(41, 41, 41)",12.09,Black,Luxury / Powerful
+19jpg.jpg,5,#bcbcbc,"(188, 188, 188)",5.59,Mixed,Custom Branding
+16jpg.jpg,1,#f8f9f8,"(248, 249, 248)",52.15,White,Minimal / Clean
+16jpg.jpg,2,#c5c8d2,"(197, 200, 210)",16.93,Mixed,Custom Branding
+16jpg.jpg,3,#223fb4,"(34, 63, 180)",12.84,Blue,Trust / Professional
+16jpg.jpg,4,#8f91a7,"(143, 145, 167)",10.35,Blue,Trust / Professional
+16jpg.jpg,5,#40444b,"(64, 68, 75)",7.73,Mixed,Custom Branding
+39.jpg,1,#fafaf8,"(250, 250, 248)",53.14,White,Minimal / Clean
+39.jpg,2,#232120,"(35, 33, 32)",17.56,Black,Luxury / Powerful
+39.jpg,3,#8c643d,"(140, 100, 61)",14.25,Mixed,Custom Branding
+39.jpg,4,#d3cbc2,"(211, 203, 194)",7.6,Mixed,Custom Branding
+39.jpg,5,#988f87,"(152, 143, 135)",7.46,Mixed,Custom Branding
+32.jpg,1,#f9f7f7,"(249, 247, 247)",43.22,White,Minimal / Clean
+32.jpg,2,#9f9596,"(159, 149, 150)",15.88,Mixed,Custom Branding
+32.jpg,3,#d2c8c9,"(210, 200, 201)",14.73,Mixed,Custom Branding
+32.jpg,4,#756a6b,"(117, 106, 107)",13.16,Mixed,Custom Branding
+32.jpg,5,#a21625,"(162, 22, 37)",13.0,Mixed,Custom Branding
+7.jpg,1,#fbfcfa,"(251, 252, 250)",86.54,White,Minimal / Clean
+7.jpg,2,#0a0a0a,"(10, 10, 10)",4.71,Black,Luxury / Powerful
+7.jpg,3,#b7888e,"(183, 136, 142)",4.0,Mixed,Custom Branding
+7.jpg,4,#e8c8cb,"(232, 200, 203)",3.46,Mixed,Custom Branding
+7.jpg,5,#4f4f4f,"(79, 79, 79)",1.28,Mixed,Custom Branding
+42jpg.jpg,1,#f2f5e9,"(242, 245, 233)",36.16,White,Minimal / Clean
+42jpg.jpg,2,#779494,"(119, 148, 148)",24.8,Mixed,Custom Branding
+42jpg.jpg,3,#b4c3b8,"(180, 195, 184)",24.24,Mixed,Custom Branding
+42jpg.jpg,4,#676a5b,"(103, 106, 91)",9.75,Mixed,Custom Branding
+42jpg.jpg,5,#2a281d,"(42, 40, 29)",5.06,Black,Luxury / Powerful
+78.jpg,1,#f3f0f2,"(243, 240, 242)",64.92,White,Minimal / Clean
+78.jpg,2,#910d3b,"(145, 13, 59)",19.21,Mixed,Custom Branding
+78.jpg,3,#a44b6a,"(164, 75, 106)",5.46,Mixed,Custom Branding
+78.jpg,4,#eabdce,"(234, 189, 206)",5.25,Mixed,Custom Branding
+78.jpg,5,#ce869e,"(206, 134, 158)",5.16,Pink,Playful / Feminine
+32jpg.jpg,1,#050505,"(5, 5, 5)",56.84,Black,Luxury / Powerful
+32jpg.jpg,2,#f8f8f8,"(248, 248, 248)",26.33,White,Minimal / Clean
+32jpg.jpg,3,#3b3b3b,"(59, 59, 59)",6.28,Black,Luxury / Powerful
+32jpg.jpg,4,#c3c3c3,"(195, 195, 195)",5.47,Mixed,Custom Branding
+32jpg.jpg,5,#818181,"(129, 129, 129)",5.08,Mixed,Custom Branding
+42.jpg,1,#e0d3a9,"(224, 211, 169)",44.41,Mixed,Custom Branding
+42.jpg,2,#d3c49d,"(211, 196, 157)",39.61,Mixed,Custom Branding
+42.jpg,3,#f5e5be,"(245, 229, 190)",12.21,Mixed,Custom Branding
+42.jpg,4,#282818,"(40, 40, 24)",1.89,Black,Luxury / Powerful
+42.jpg,5,#83826c,"(131, 130, 108)",1.88,Mixed,Custom Branding
+61.jpg,1,#fbfafa,"(251, 250, 250)",76.48,White,Minimal / Clean
+61.jpg,2,#242323,"(36, 35, 35)",7.7,Black,Luxury / Powerful
+61.jpg,3,#bfb9b9,"(191, 185, 185)",6.81,Mixed,Custom Branding
+61.jpg,4,#777373,"(119, 115, 115)",5.49,Mixed,Custom Branding
+61.jpg,5,#c0201a,"(192, 32, 26)",3.52,Mixed,Custom Branding
+62.jpg,1,#71706e,"(113, 112, 110)",34.01,Mixed,Custom Branding
+62.jpg,2,#9b9a9b,"(155, 154, 155)",33.76,Mixed,Custom Branding
+62.jpg,3,#533f30,"(83, 63, 48)",17.5,Mixed,Custom Branding
+62.jpg,4,#be531b,"(190, 83, 27)",8.88,Mixed,Custom Branding
+62.jpg,5,#dbd8d8,"(219, 216, 216)",5.85,White,Minimal / Clean
+33.jpg,1,#1872af,"(24, 114, 175)",37.11,Blue,Trust / Professional
+33.jpg,2,#edf3f4,"(237, 243, 244)",32.18,White,Minimal / Clean
+33.jpg,3,#80a8c9,"(128, 168, 201)",15.91,Mixed,Custom Branding
+33.jpg,4,#7b5e8c,"(123, 94, 140)",9.09,Mixed,Custom Branding
+33.jpg,5,#1c4846,"(28, 72, 70)",5.71,Mixed,Custom Branding
+11.jpg,1,#f9fbf9,"(249, 251, 249)",65.59,White,Minimal / Clean
+11.jpg,2,#1a506c,"(26, 80, 108)",12.11,Mixed,Custom Branding
+11.jpg,3,#c2c9c8,"(194, 201, 200)",9.59,Mixed,Custom Branding
+11.jpg,4,#71858f,"(113, 133, 143)",7.73,Mixed,Custom Branding
+11.jpg,5,#d78b4d,"(215, 139, 77)",4.98,Orange,Friendly / Energetic
+5jpg.jpg,1,#f8f8f8,"(248, 248, 248)",48.46,White,Minimal / Clean
+5jpg.jpg,2,#090909,"(9, 9, 9)",28.11,Black,Luxury / Powerful
+5jpg.jpg,3,#4d4d4d,"(77, 77, 77)",8.9,Mixed,Custom Branding
+5jpg.jpg,4,#c5c5c5,"(197, 197, 197)",7.5,Mixed,Custom Branding
+5jpg.jpg,5,#8b8b8b,"(139, 139, 139)",7.03,Mixed,Custom Branding
+29jpg.jpg,1,#f6f8f9,"(246, 248, 249)",35.45,White,Minimal / Clean
+29jpg.jpg,2,#77a7c5,"(119, 167, 197)",21.03,Mixed,Custom Branding
+29jpg.jpg,3,#20a8df,"(32, 168, 223)",19.53,Teal,Sophisticated / Balanced
+29jpg.jpg,4,#bcc9d4,"(188, 201, 212)",13.61,Mixed,Custom Branding
+29jpg.jpg,5,#4f5c7e,"(79, 92, 126)",10.38,Mixed,Custom Branding
+75.jpg,1,#f6fbfa,"(246, 251, 250)",30.74,White,Minimal / Clean
+75.jpg,2,#058ed2,"(5, 142, 210)",26.0,Blue,Trust / Professional
+75.jpg,3,#0e5da7,"(14, 93, 167)",25.91,Blue,Trust / Professional
+75.jpg,4,#8e949c,"(142, 148, 156)",12.46,Blue,Trust / Professional
+75.jpg,5,#a2c8d9,"(162, 200, 217)",4.9,Mixed,Custom Branding
+2jpg.jpg,1,#102b88,"(16, 43, 136)",71.72,Mixed,Custom Branding
+2jpg.jpg,2,#f4f9fa,"(244, 249, 250)",12.68,White,Minimal / Clean
+2jpg.jpg,3,#12256a,"(18, 37, 106)",8.47,Mixed,Custom Branding
+2jpg.jpg,4,#6e7caa,"(110, 124, 170)",3.86,Blue,Trust / Professional
+2jpg.jpg,5,#bcc8e3,"(188, 200, 227)",3.27,Mixed,Custom Branding
+96.jpg,1,#f2f2f2,"(242, 242, 242)",45.61,White,Minimal / Clean
+96.jpg,2,#c7c3be,"(199, 195, 190)",22.91,Mixed,Custom Branding
+96.jpg,3,#8d8794,"(141, 135, 148)",15.8,Mixed,Custom Branding
+96.jpg,4,#554d49,"(85, 77, 73)",11.89,Mixed,Custom Branding
+96.jpg,5,#b25d30,"(178, 93, 48)",3.79,Mixed,Custom Branding
+20jpg.jpg,1,#fafafa,"(250, 250, 250)",49.3,White,Minimal / Clean
+20jpg.jpg,2,#050505,"(5, 5, 5)",35.21,Black,Luxury / Powerful
+20jpg.jpg,3,#bdbdbd,"(189, 189, 189)",6.05,Mixed,Custom Branding
+20jpg.jpg,4,#3a3a3a,"(58, 58, 58)",5.26,Black,Luxury / Powerful
+20jpg.jpg,5,#737373,"(115, 115, 115)",4.18,Mixed,Custom Branding
+63.jpg,1,#f7f8f8,"(247, 248, 248)",57.61,White,Minimal / Clean
+63.jpg,2,#c0c0c8,"(192, 192, 200)",18.57,Mixed,Custom Branding
+63.jpg,3,#7b929c,"(123, 146, 156)",11.8,Blue,Trust / Professional
+63.jpg,4,#2f2e2e,"(47, 46, 46)",8.34,Black,Luxury / Powerful
+63.jpg,5,#aa2537,"(170, 37, 55)",3.67,Mixed,Custom Branding
+22.jpg,1,#440b1c,"(68, 11, 28)",31.0,Mixed,Custom Branding
+22.jpg,2,#faf7f7,"(250, 247, 247)",26.87,White,Minimal / Clean
+22.jpg,3,#75314c,"(117, 49, 76)",17.99,Mixed,Custom Branding
+22.jpg,4,#ab7180,"(171, 113, 128)",13.71,Mixed,Custom Branding
+22.jpg,5,#d1b0b1,"(209, 176, 177)",10.43,Mixed,Custom Branding
+64.jpg,1,#faf9f8,"(250, 249, 248)",46.78,White,Minimal / Clean
+64.jpg,2,#d82526,"(216, 37, 38)",34.04,Red,Bold / Energetic
+64.jpg,3,#fbd5d4,"(251, 213, 212)",7.38,White,Minimal / Clean
+64.jpg,4,#cd595c,"(205, 89, 92)",6.09,Red,Bold / Energetic
+64.jpg,5,#ed9e9d,"(237, 158, 157)",5.71,Mixed,Custom Branding
+52.jpg,1,#f9f9f9,"(249, 249, 249)",63.38,White,Minimal / Clean
+52.jpg,2,#c7c7c7,"(199, 199, 199)",11.06,Mixed,Custom Branding
+52.jpg,3,#818181,"(129, 129, 129)",9.15,Mixed,Custom Branding
+52.jpg,4,#4a4a4a,"(74, 74, 74)",9.05,Mixed,Custom Branding
+52.jpg,5,#131313,"(19, 19, 19)",7.36,Black,Luxury / Powerful
+12jpg.jpg,1,#fcfdf9,"(252, 253, 249)",47.18,White,Minimal / Clean
+12jpg.jpg,2,#82ae3f,"(130, 174, 63)",21.87,Green,Growth / Eco
+12jpg.jpg,3,#ebf8d6,"(235, 248, 214)",12.81,White,Minimal / Clean
+12jpg.jpg,4,#cce3ab,"(204, 227, 171)",9.37,Mixed,Custom Branding
+12jpg.jpg,5,#aac97c,"(170, 201, 124)",8.78,Mixed,Custom Branding
+35jpg.jpg,1,#f8faf9,"(248, 250, 249)",64.05,White,Minimal / Clean
+35jpg.jpg,2,#c6c2c6,"(198, 194, 198)",13.66,Mixed,Custom Branding
+35jpg.jpg,3,#1e345a,"(30, 52, 90)",10.87,Mixed,Custom Branding
+35jpg.jpg,4,#777b88,"(119, 123, 136)",7.14,Mixed,Custom Branding
+35jpg.jpg,5,#b03e30,"(176, 62, 48)",4.28,Mixed,Custom Branding
+67.jpg,1,#fafdfc,"(250, 253, 252)",50.76,White,Minimal / Clean
+67.jpg,2,#e5f6f9,"(229, 246, 249)",16.39,White,Minimal / Clean
+67.jpg,3,#cfe5ed,"(207, 229, 237)",15.0,White,Minimal / Clean
+67.jpg,4,#b9d4dd,"(185, 212, 221)",10.71,Mixed,Custom Branding
+67.jpg,5,#92bdd1,"(146, 189, 209)",7.13,Mixed,Custom Branding
+39jpg.jpg,1,#fbfbfb,"(251, 251, 251)",91.96,White,Minimal / Clean
+39jpg.jpg,2,#d7cab8,"(215, 202, 184)",2.8,Mixed,Custom Branding
+39jpg.jpg,3,#7b7b7b,"(123, 123, 123)",2.43,Mixed,Custom Branding
+39jpg.jpg,4,#353535,"(53, 53, 53)",1.49,Black,Luxury / Powerful
+39jpg.jpg,5,#ed9c4c,"(237, 156, 76)",1.32,Orange,Friendly / Energetic
+30jpg.jpg,1,#fefefc,"(254, 254, 252)",89.8,White,Minimal / Clean
+30jpg.jpg,2,#1a1a1a,"(26, 26, 26)",3.41,Black,Luxury / Powerful
+30jpg.jpg,3,#d0d1d1,"(208, 209, 209)",2.84,White,Minimal / Clean
+30jpg.jpg,4,#9f9f9f,"(159, 159, 159)",2.78,Mixed,Custom Branding
+30jpg.jpg,5,#4e5053,"(78, 80, 83)",1.17,Mixed,Custom Branding
+18.jpg,1,#fefdfb,"(254, 253, 251)",78.73,White,Minimal / Clean
+18.jpg,2,#e1ded9,"(225, 222, 217)",11.55,White,Minimal / Clean
+18.jpg,3,#cfccc2,"(207, 204, 194)",5.58,Mixed,Custom Branding
+18.jpg,4,#bab29b,"(186, 178, 155)",2.55,Mixed,Custom Branding
+18.jpg,5,#83856d,"(131, 133, 109)",1.59,Mixed,Custom Branding
+57.jpg,1,#fbfbf9,"(251, 251, 249)",55.29,White,Minimal / Clean
+57.jpg,2,#d62d23,"(214, 45, 35)",18.83,Red,Bold / Energetic
+57.jpg,3,#ed958f,"(237, 149, 143)",8.95,Mixed,Custom Branding
+57.jpg,4,#d95550,"(217, 85, 80)",8.49,Red,Bold / Energetic
+57.jpg,5,#fad2ca,"(250, 210, 202)",8.44,White,Minimal / Clean
+20.jpg,1,#f7f7f7,"(247, 247, 247)",47.92,White,Minimal / Clean
+20.jpg,2,#181818,"(24, 24, 24)",14.86,Black,Luxury / Powerful
+20.jpg,3,#b7a9b1,"(183, 169, 177)",14.71,Mixed,Custom Branding
+20.jpg,4,#325289,"(50, 82, 137)",12.68,Mixed,Custom Branding
+20.jpg,5,#b61c1c,"(182, 28, 28)",9.82,Mixed,Custom Branding
+14.jpg,1,#f7fcfa,"(247, 252, 250)",65.84,White,Minimal / Clean
+14.jpg,2,#c0f2f8,"(192, 242, 248)",12.61,Mixed,Custom Branding
+14.jpg,3,#59c1d9,"(89, 193, 217)",9.9,Teal,Sophisticated / Balanced
+14.jpg,4,#8bd9e6,"(139, 217, 230)",8.83,Mixed,Custom Branding
+14.jpg,5,#e96a46,"(233, 106, 70)",2.82,Orange,Friendly / Energetic
+85jpg.jpg,1,#7a6e65,"(122, 110, 101)",28.0,Mixed,Custom Branding
+85jpg.jpg,2,#4f4743,"(79, 71, 67)",22.09,Mixed,Custom Branding
+85jpg.jpg,3,#0e0a08,"(14, 10, 8)",21.04,Black,Luxury / Powerful
+85jpg.jpg,4,#cea13b,"(206, 161, 59)",15.47,Orange,Friendly / Energetic
+85jpg.jpg,5,#a6978c,"(166, 151, 140)",13.39,Mixed,Custom Branding
+38.jpg,1,#c7a59e,"(199, 165, 158)",24.07,Mixed,Custom Branding
+38.jpg,2,#261c33,"(38, 28, 51)",22.33,Black,Luxury / Powerful
+38.jpg,3,#544563,"(84, 69, 99)",20.28,Mixed,Custom Branding
+38.jpg,4,#cad2e9,"(202, 210, 233)",17.49,White,Minimal / Clean
+38.jpg,5,#6964ac,"(105, 100, 172)",15.83,Blue,Trust / Professional
+13.jpg,1,#f5f4f1,"(245, 244, 241)",44.13,White,Minimal / Clean
+13.jpg,2,#949593,"(148, 149, 147)",18.12,Mixed,Custom Branding
+13.jpg,3,#4f3735,"(79, 55, 53)",17.5,Mixed,Custom Branding
+13.jpg,4,#eac716,"(234, 199, 22)",12.54,Orange,Friendly / Energetic
+13.jpg,5,#35f608,"(53, 246, 8)",7.71,Green,Growth / Eco
+46.jpg,1,#084c9a,"(8, 76, 154)",42.84,Blue,Trust / Professional
+46.jpg,2,#f4d112,"(244, 209, 18)",28.23,Yellow,Optimistic / Creative
+46.jpg,3,#92cbe8,"(146, 203, 232)",11.74,Mixed,Custom Branding
+46.jpg,4,#e6de84,"(230, 222, 132)",10.66,Mixed,Custom Branding
+46.jpg,5,#647366,"(100, 115, 102)",6.52,Mixed,Custom Branding
+16.jpg,1,#062f5a,"(6, 47, 90)",41.39,Mixed,Custom Branding
+16.jpg,2,#f8f8f9,"(248, 248, 249)",30.52,White,Minimal / Clean
+16.jpg,3,#ae1b30,"(174, 27, 48)",15.11,Mixed,Custom Branding
+16.jpg,4,#b1abbc,"(177, 171, 188)",8.31,Mixed,Custom Branding
+16.jpg,5,#536983,"(83, 105, 131)",4.67,Teal,Sophisticated / Balanced
+57jpg.jpg,1,#f8f7f6,"(248, 247, 246)",47.16,White,Minimal / Clean
+57jpg.jpg,2,#e82027,"(232, 32, 39)",24.72,Red,Bold / Energetic
+57jpg.jpg,3,#1d1c1c,"(29, 28, 28)",12.1,Black,Luxury / Powerful
+57jpg.jpg,4,#d5adac,"(213, 173, 172)",9.69,Mixed,Custom Branding
+57jpg.jpg,5,#6c6c6c,"(108, 108, 108)",6.33,Mixed,Custom Branding
+22jpg.jpg,1,#f9f9f9,"(249, 249, 249)",61.6,White,Minimal / Clean
+22jpg.jpg,2,#d1d1d2,"(209, 209, 210)",11.69,White,Minimal / Clean
+22jpg.jpg,3,#a1a1a1,"(161, 161, 161)",10.73,Mixed,Custom Branding
+22jpg.jpg,4,#727273,"(114, 114, 115)",8.16,Mixed,Custom Branding
+22jpg.jpg,5,#3c3c3e,"(60, 60, 62)",7.82,Mixed,Custom Branding
+68.jpg,1,#fbf9fc,"(251, 249, 252)",77.44,White,Minimal / Clean
+68.jpg,2,#ca081a,"(202, 8, 26)",11.54,Red,Bold / Energetic
+68.jpg,3,#a32130,"(163, 33, 48)",4.81,Mixed,Custom Branding
+68.jpg,4,#f1bfc6,"(241, 191, 198)",3.46,Mixed,Custom Branding
+68.jpg,5,#bf717b,"(191, 113, 123)",2.76,Mixed,Custom Branding
+71.jpg,1,#3e999b,"(62, 153, 155)",75.1,Teal,Sophisticated / Balanced
+71.jpg,2,#d9d8c5,"(217, 216, 197)",14.94,Mixed,Custom Branding
+71.jpg,3,#a6b3ab,"(166, 179, 171)",4.26,Mixed,Custom Branding
+71.jpg,4,#78837f,"(120, 131, 127)",3.45,Mixed,Custom Branding
+71.jpg,5,#346e79,"(52, 110, 121)",2.25,Teal,Sophisticated / Balanced
+69.jpg,1,#f6faf8,"(246, 250, 248)",53.46,White,Minimal / Clean
+69.jpg,2,#c0d7da,"(192, 215, 218)",14.3,Mixed,Custom Branding
+69.jpg,3,#163b71,"(22, 59, 113)",12.63,Mixed,Custom Branding
+69.jpg,4,#74a6b8,"(116, 166, 184)",9.92,Mixed,Custom Branding
+69.jpg,5,#218296,"(33, 130, 150)",9.68,Teal,Sophisticated / Balanced
+9jpg.jpg,1,#030303,"(3, 3, 3)",55.68,Black,Luxury / Powerful
+9jpg.jpg,2,#f9f9f9,"(249, 249, 249)",27.96,White,Minimal / Clean
+9jpg.jpg,3,#333333,"(51, 51, 51)",6.24,Black,Luxury / Powerful
+9jpg.jpg,4,#7d7d7d,"(125, 125, 125)",5.46,Mixed,Custom Branding
+9jpg.jpg,5,#c8c8c8,"(200, 200, 200)",4.66,Mixed,Custom Branding
+66.jpg,1,#fafafa,"(250, 250, 250)",53.99,White,Minimal / Clean
+66.jpg,2,#0d0d0d,"(13, 13, 13)",19.71,Black,Luxury / Powerful
+66.jpg,3,#d2d2d2,"(210, 210, 210)",10.24,White,Minimal / Clean
+66.jpg,4,#555555,"(85, 85, 85)",8.78,Mixed,Custom Branding
+66.jpg,5,#9d9d9d,"(157, 157, 157)",7.28,Mixed,Custom Branding
+23jpg.jpg,1,#fcfcf8,"(252, 252, 248)",58.73,White,Minimal / Clean
+23jpg.jpg,2,#f2e8da,"(242, 232, 218)",22.49,White,Minimal / Clean
+23jpg.jpg,3,#d1c4b2,"(209, 196, 178)",8.73,Mixed,Custom Branding
+23jpg.jpg,4,#574c40,"(87, 76, 64)",5.35,Mixed,Custom Branding
+23jpg.jpg,5,#93887d,"(147, 136, 125)",4.7,Mixed,Custom Branding
+12.jpg,1,#f8f9f8,"(248, 249, 248)",50.35,White,Minimal / Clean
+12.jpg,2,#ae1b60,"(174, 27, 96)",19.05,Mixed,Custom Branding
+12.jpg,3,#79b747,"(121, 183, 71)",13.77,Green,Growth / Eco
+12.jpg,4,#558cc2,"(85, 140, 194)",9.69,Blue,Trust / Professional
+12.jpg,5,#c4bbb7,"(196, 187, 183)",7.13,Mixed,Custom Branding
+30.jpg,1,#f9f9f9,"(249, 249, 249)",49.35,White,Minimal / Clean
+30.jpg,2,#101010,"(16, 16, 16)",19.48,Black,Luxury / Powerful
+30.jpg,3,#404040,"(64, 64, 64)",11.95,Mixed,Custom Branding
+30.jpg,4,#888888,"(136, 136, 136)",10.96,Mixed,Custom Branding
+30.jpg,5,#c6c6c6,"(198, 198, 198)",8.26,Mixed,Custom Branding
+17.jpg,1,#f80441,"(248, 4, 65)",47.55,Red,Bold / Energetic
+17.jpg,2,#faf5f8,"(250, 245, 248)",29.31,White,Minimal / Clean
+17.jpg,3,#c81d4b,"(200, 29, 75)",12.86,Mixed,Custom Branding
+17.jpg,4,#f6b7c9,"(246, 183, 201)",5.61,Mixed,Custom Branding
+17.jpg,5,#d76987,"(215, 105, 135)",4.68,Mixed,Custom Branding
+27.jpg,1,#f8f8f9,"(248, 248, 249)",51.72,White,Minimal / Clean
+27.jpg,2,#dfe1e0,"(223, 225, 224)",30.07,White,Minimal / Clean
+27.jpg,3,#a3c3c0,"(163, 195, 192)",10.59,Mixed,Custom Branding
+27.jpg,4,#d0bb52,"(208, 187, 82)",3.87,Orange,Friendly / Energetic
+27.jpg,5,#698662,"(105, 134, 98)",3.75,Mixed,Custom Branding
+26.jpg,1,#a2bebd,"(162, 190, 189)",32.51,Mixed,Custom Branding
+26.jpg,2,#798c93,"(121, 140, 147)",27.26,Mixed,Custom Branding
+26.jpg,3,#b93529,"(185, 53, 41)",15.05,Mixed,Custom Branding
+26.jpg,4,#2a2125,"(42, 33, 37)",14.21,Black,Luxury / Powerful
+26.jpg,5,#dee6e6,"(222, 230, 230)",10.96,White,Minimal / Clean
+3.jpg,1,#8d7a55,"(141, 122, 85)",23.61,Mixed,Custom Branding
+3.jpg,2,#36241a,"(54, 36, 26)",23.3,Black,Luxury / Powerful
+3.jpg,3,#645a4a,"(100, 90, 74)",22.05,Mixed,Custom Branding
+3.jpg,4,#ae9b76,"(174, 155, 118)",18.31,Mixed,Custom Branding
+3.jpg,5,#d8cabb,"(216, 202, 187)",12.73,Mixed,Custom Branding
+43jpg.jpg,1,#97a2b6,"(151, 162, 182)",37.8,Mixed,Custom Branding
+43jpg.jpg,2,#a6967a,"(166, 150, 122)",37.3,Mixed,Custom Branding
+43jpg.jpg,3,#b0b6c5,"(176, 182, 197)",14.32,Mixed,Custom Branding
+43jpg.jpg,4,#716b65,"(113, 107, 101)",7.71,Mixed,Custom Branding
+43jpg.jpg,5,#40362a,"(64, 54, 42)",2.87,Mixed,Custom Branding
+65.jpg,1,#1e1e1e,"(30, 30, 30)",91.43,Black,Luxury / Powerful
+65.jpg,2,#f7f7f7,"(247, 247, 247)",4.23,White,Minimal / Clean
+65.jpg,3,#585858,"(88, 88, 88)",1.51,Mixed,Custom Branding
+65.jpg,4,#949494,"(148, 148, 148)",1.43,Mixed,Custom Branding
+65.jpg,5,#cbcbcb,"(203, 203, 203)",1.41,White,Minimal / Clean
+59.jpg,1,#f6f6f5,"(246, 246, 245)",72.38,White,Minimal / Clean
+59.jpg,2,#b9c6b8,"(185, 198, 184)",8.55,Mixed,Custom Branding
+59.jpg,3,#303c4c,"(48, 60, 76)",8.41,Mixed,Custom Branding
+59.jpg,4,#839781,"(131, 151, 129)",5.73,Green,Growth / Eco
+59.jpg,5,#db8619,"(219, 134, 25)",4.94,Orange,Friendly / Energetic
+53.jpg,1,#ecdf0a,"(236, 223, 10)",44.74,Yellow,Optimistic / Creative
+53.jpg,2,#0a0803,"(10, 8, 3)",28.8,Black,Luxury / Powerful
+53.jpg,3,#c2ba1c,"(194, 186, 28)",10.6,Mixed,Custom Branding
+53.jpg,4,#4f4705,"(79, 71, 5)",8.25,Mixed,Custom Branding
+53.jpg,5,#8a820d,"(138, 130, 13)",7.61,Mixed,Custom Branding
+45.jpg,1,#faf9f8,"(250, 249, 248)",44.07,White,Minimal / Clean
+45.jpg,2,#ee1a24,"(238, 26, 36)",36.53,Red,Bold / Energetic
+45.jpg,3,#0a0a0a,"(10, 10, 10)",8.65,Black,Luxury / Powerful
+45.jpg,4,#cca6a7,"(204, 166, 167)",7.74,Mixed,Custom Branding
+45.jpg,5,#565556,"(86, 85, 86)",3.01,Mixed,Custom Branding
+43.jpg,1,#f5f6f7,"(245, 246, 247)",39.57,White,Minimal / Clean
+43.jpg,2,#2f4331,"(47, 67, 49)",21.07,Mixed,Custom Branding
+43.jpg,3,#c4cbd5,"(196, 203, 213)",13.7,Mixed,Custom Branding
+43.jpg,4,#646861,"(100, 104, 97)",12.92,Mixed,Custom Branding
+43.jpg,5,#959ea5,"(149, 158, 165)",12.73,Mixed,Custom Branding
+67jpg.jpg,1,#f6fbfb,"(246, 251, 251)",63.59,White,Minimal / Clean
+67jpg.jpg,2,#1e605d,"(30, 96, 93)",12.62,Mixed,Custom Branding
+67jpg.jpg,3,#c0dcdb,"(192, 220, 219)",9.61,Mixed,Custom Branding
+67jpg.jpg,4,#8ab1ae,"(138, 177, 174)",7.43,Mixed,Custom Branding
+67jpg.jpg,5,#558380,"(85, 131, 128)",6.74,Teal,Sophisticated / Balanced
+19.jpg,1,#181512,"(24, 21, 18)",33.73,Black,Luxury / Powerful
+19.jpg,2,#43312e,"(67, 49, 46)",22.56,Mixed,Custom Branding
+19.jpg,3,#f3ccd4,"(243, 204, 212)",16.25,White,Minimal / Clean
+19.jpg,4,#c29097,"(194, 144, 151)",14.02,Mixed,Custom Branding
+19.jpg,5,#8a5a61,"(138, 90, 97)",13.43,Mixed,Custom Branding
+49jpg.jpg,1,#f7f7f7,"(247, 247, 247)",45.24,White,Minimal / Clean
+49jpg.jpg,2,#cbcbcb,"(203, 203, 203)",19.64,White,Minimal / Clean
+49jpg.jpg,3,#939393,"(147, 147, 147)",16.87,Mixed,Custom Branding
+49jpg.jpg,4,#5d5d5d,"(93, 93, 93)",9.98,Mixed,Custom Branding
+49jpg.jpg,5,#282828,"(40, 40, 40)",8.27,Black,Luxury / Powerful
+21jpg.jpg,1,#030303,"(3, 3, 3)",74.6,Black,Luxury / Powerful
+21jpg.jpg,2,#f3f3f3,"(243, 243, 243)",13.01,White,Minimal / Clean
+21jpg.jpg,3,#353535,"(53, 53, 53)",4.19,Black,Luxury / Powerful
+21jpg.jpg,4,#b2b2b2,"(178, 178, 178)",4.17,Mixed,Custom Branding
+21jpg.jpg,5,#717171,"(113, 113, 113)",4.03,Mixed,Custom Branding
+28.jpg,1,#02fd03,"(2, 253, 3)",73.35,Green,Growth / Eco
+28.jpg,2,#30ea2e,"(48, 234, 46)",8.45,Green,Growth / Eco
+28.jpg,3,#182319,"(24, 35, 25)",7.45,Black,Luxury / Powerful
+28.jpg,4,#d5ddd8,"(213, 221, 216)",5.85,White,Minimal / Clean
+28.jpg,5,#7f8c82,"(127, 140, 130)",4.9,Mixed,Custom Branding
+44.jpg,1,#f9faf6,"(249, 250, 246)",52.7,White,Minimal / Clean
+44.jpg,2,#2a3858,"(42, 56, 88)",22.38,Mixed,Custom Branding
+44.jpg,3,#dbd9c3,"(219, 217, 195)",10.73,Mixed,Custom Branding
+44.jpg,4,#ddc370,"(221, 195, 112)",7.75,Mixed,Custom Branding
+44.jpg,5,#7b8597,"(123, 133, 151)",6.44,Blue,Trust / Professional

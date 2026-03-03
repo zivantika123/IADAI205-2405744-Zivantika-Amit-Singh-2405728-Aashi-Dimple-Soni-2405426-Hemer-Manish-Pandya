@@ -1,0 +1,29 @@
+{
+  "img_size": 128,
+  "num_classes": 19,
+  "classes": [
+    "AWA",
+    "Amoi",
+    "Contour",
+    "CoverGirl",
+    "DMC",
+    "DrBrowns",
+    "Duracell",
+    "Hamilton",
+    "Isuzu",
+    "KPNuts",
+    "Kins",
+    "KogswellCycles",
+    "Kracks",
+    "Krave",
+    "Nelsonss",
+    "ScotRail",
+    "Sharp",
+    "TeenageMutantNinjaTurtles",
+    "TexasInstruments"
+  ],
+  "accuracy": 0.0,
+  "training_time_minutes": 0.41,
+  "num_images": 101,
+  "embedding_dim": 256
+}

@@ -1,0 +1,6 @@
+company,industry,slogan,generation_source,bleu_score,sentiment_score,length_score,overall_score,word_count
+Costa Coffee,General,"Your Daily Coffee, Elevated.",gemini,9.999999999999996e-11,0,1.0,0.34000000002999997,4
+Evian,General,Evian: Elevate Your,gemini,9.999999999999996e-11,0,1.0,0.34000000002999997,3
+Dasani,General,"Future, Defined.",gemini,0.3,0,1.0,0.43000000000000005,2
+Campus Bubble,General,Academic Community. Connected.,gemini,0.3,0,1.0,0.43000000000000005,3
+DueProps,General,DueProps: Unpre,gemini,0.3,0,1.0,0.43000000000000005,2

@@ -1,0 +1,181 @@
+{
+  "generated_at": "2026-03-03T14:30:05.883306",
+  "feedback_stats": {
+    "total_feedback": 22,
+    "avg_rating": 4.090909090909091,
+    "avg_sentiment": 0.5219636363636364,
+    "feedback_by_type": {
+      "slogan": 6,
+      "logo": 4,
+      "font": 4,
+      "animation": 4,
+      "campaign": 4
+    }
+  },
+  "top_performers": {
+    "logos": {
+      "rating": {
+        "Tech Logo Blue": 5.0,
+        "Healthcare Logo Green": 4.0
+      },
+      "asset_id": {
+        "Tech Logo Blue": "logo_001",
+        "Healthcare Logo Green": "logo_002"
+      },
+      "comment": {
+        "Tech Logo Blue": [
+          "Perfect color scheme, very professional! The design perfectly captures our brand essence.",
+          "Perfect color scheme, very professional! The design perfectly captures our brand essence."
+        ],
+        "Healthcare Logo Green": [
+          "Clean and trustworthy, but could be more modern.",
+          "Clean and trustworthy, but could be more modern."
+        ]
+      }
+    },
+    "fonts": {
+      "rating": {
+        "Montserrat": 5.0,
+        "Playfair Display": 2.0
+      },
+      "asset_id": {
+        "Montserrat": "font_001",
+        "Playfair Display": "font_002"
+      },
+      "comment": {
+        "Montserrat": [
+          "Modern and clean, works perfectly for our tech brand.",
+          "Modern and clean, works perfectly for our tech brand."
+        ],
+        "Playfair Display": [
+          "Too formal and old-fashioned for our startup.",
+          "Too formal and old-fashioned for our startup."
+        ]
+      }
+    },
+    "slogans": {
+      "rating": {
+        "Innovate Your Future": 5.0,
+        "Quality You Can Trust": 4.0,
+        "Experience Excellence": 3.0
+      },
+      "asset_id": {
+        "Innovate Your Future": "slogan_001",
+        "Quality You Can Trust": "slogan_002",
+        "Experience Excellence": "slogan_003"
+      },
+      "comment": {
+        "Innovate Your Future": [
+          "Very catchy and memorable! Our team loves it.",
+          "Very catchy and memorable! Our team loves it."
+        ],
+        "Quality You Can Trust": [
+          "Good, but a bit generic. Could be more unique.",
+          "Good, but a bit generic. Could be more unique."
+        ],
+        "Experience Excellence": [
+          "Okay but doesn't stand out from competitors.",
+          "Okay but doesn't stand out from competitors."
+        ]
+      }
+    },
+    "animations": {
+      "rating": {
+        "Luxury Style Animation": 5.0,
+        "Energetic Style Animation": 4.0
+      },
+      "asset_id": {
+        "Luxury Style Animation": "anim_001",
+        "Energetic Style Animation": "anim_002"
+      },
+      "comment": {
+        "Luxury Style Animation": [
+          "Elegant and sophisticated. Perfect for our premium brand.",
+          "Elegant and sophisticated. Perfect for our premium brand."
+        ],
+        "Energetic Style Animation": [
+          "Fun and engaging, maybe a bit too fast.",
+          "Fun and engaging, maybe a bit too fast."
+        ]
+      }
+    },
+    "campaigns": {
+      "rating": {
+        "Email Marketing Campaign": 5.0,
+        "Social Media Campaign": 3.0
+      },
+      "asset_id": {
+        "Email Marketing Campaign": "camp_002",
+        "Social Media Campaign": "camp_001"
+      },
+      "comment": {
+        "Email Marketing Campaign": [
+          "Excellent targeting and messaging! Great ROI.",
+          "Excellent targeting and messaging! Great ROI."
+        ],
+        "Social Media Campaign": [
+          "Good strategy but duration felt too long. 60 days is excessive.",
+          "Good strategy but duration felt too long. 60 days is excessive."
+        ]
+      }
+    }
+  },
+  "refinements": {
+    "logo": {
+      "top_styles": [
+        "Tech Logo Blue",
+        "Healthcare Logo Green",
+        "Tech Logo Blue",
+        "Healthcare Logo Green"
+      ],
+      "avoid_styles": [],
+      "avg_rating": 4.5,
+      "feedback_count": 4
+    },
+    "font": {
+      "preferred_fonts": [
+        "Montserrat",
+        "Montserrat"
+      ],
+      "avoid_fonts": [
+        "Playfair Display",
+        "Playfair Display"
+      ],
+      "avg_rating": 3.5
+    },
+    "slogan": {
+      "top_slogans": [
+        "Innovate Your Future",
+        "Quality You Can Trust",
+        "Innovate Your Future",
+        "Quality You Can Trust"
+      ],
+      "avg_successful_length": 20.5,
+      "patterns_to_avoid": []
+    },
+    "animation": {
+      "preferred_styles": [
+        "Luxury Style Animation",
+        "Energetic Style Animation",
+        "Luxury Style Animation",
+        "Energetic Style Animation"
+      ],
+      "avg_rating": 4.5
+    },
+    "campaign": {
+      "preferred_types": [
+        "Email Marketing Campaign",
+        "Email Marketing Campaign"
+      ],
+      "avg_rating": 4.0,
+      "duration_feedback": 2
+    }
+  },
+  "recommendations": {
+    "logo": "Prioritize styles similar to top-rated logos",
+    "font": "Prefer ['Montserrat', 'Montserrat']",
+    "slogan": "Keep slogans around 20 characters",
+    "animation": "Use styles that received highest ratings",
+    "campaign": "Adjust duration based on feedback patterns"
+  }
+}

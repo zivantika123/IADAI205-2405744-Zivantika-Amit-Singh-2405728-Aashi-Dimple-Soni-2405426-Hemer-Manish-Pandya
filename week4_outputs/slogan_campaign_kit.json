@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-03-03T14:08:02.383706",
+  "total_slogans": 5,
+  "slogans_by_source": {
+    "gemini": 5,
+    "rule_based": 0
+  },
+  "animation_ready_slogans": [
+    {
+      "text": "Future, Defined.",
+      "company": "Dasani",
+      "industry": "General",
+      "score": 0.43000000000000005,
+      "source": "gemini"
+    },
+    {
+      "text": "Academic Community. Connected.",
+      "company": "Campus Bubble",
+      "industry": "General",
+      "score": 0.43000000000000005,
+      "source": "gemini"
+    },
+    {
+      "text": "DueProps: Unpre",
+      "company": "DueProps",
+      "industry": "General",
+      "score": 0.43000000000000005,
+      "source": "gemini"
+    },
+    {
+      "text": "Your Daily Coffee, Elevated.",
+      "company": "Costa Coffee",
+      "industry": "General",
+      "score": 0.34000000002999997,
+      "source": "gemini"
+    },
+    {
+      "text": "Evian: Elevate Your",
+      "company": "Evian",
+      "industry": "General",
+      "score": 0.34000000002999997,
+      "source": "gemini"
+    }
+  ],
+  "multilingual_versions": {
+    "es": {
+      "language": "Spanish",
+      "translations": [
+        "Comunidad Acad\u00e9mica. Conectado.",
+        "Tu caf\u00e9 diario, elevado.",
+        "Evian: eleva tu",
+        "DueProps: no pre",
+        "Futuro, definido."
+      ]
+    },
+    "fr": {
+      "language": "French",
+      "translations": [
+        "Communaut\u00e9 acad\u00e9mique. Connect\u00e9.",
+        "Votre caf\u00e9 quotidien, \u00e9lev\u00e9.",
+        "Evian : \u00c9levez votre",
+        "DueProps\u00a0:\u00a0Unpre",
+        "Futur, d\u00e9fini."
+      ]
+    },
+    "de": {
+      "language": "German",
+      "translations": [
+        "Akademische Gemeinschaft. Verbunden.",
+        "Ihr t\u00e4glicher Kaffee, gehoben.",
+        "Evian: Erh\u00f6hen Sie Ihr",
+        "DueProps: Unpre",
+        "Zukunft, definiert."
+      ]
+    },
+    "it": {
+      "language": "Italian",
+      "translations": [
+        "Comunit\u00e0 accademica. Collegato.",
+        "Il tuo caff\u00e8 quotidiano, elevato.",
+        "Evian: Eleva il tuo",
+        "DueProps: Impre",
+        "Futuro, definito."
+      ]
+    },
+    "pt": {
+      "language": "Portuguese",
+      "translations": [
+        "Comunidade Acad\u00eamica. Conectado.",
+        "Seu caf\u00e9 di\u00e1rio, elevado.",
+        "Evian: Eleve seu",
+        "DueProps: Despreparado",
+        "Futuro, definido."
+      ]
+    }
+  }
+}

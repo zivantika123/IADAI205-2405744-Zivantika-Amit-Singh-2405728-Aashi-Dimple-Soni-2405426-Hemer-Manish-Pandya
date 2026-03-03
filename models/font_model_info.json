@@ -1,0 +1,16 @@
+{
+  "model_type": "CNN",
+  "input_shape": [
+    64,
+    64,
+    1
+  ],
+  "num_classes": 1,
+  "classes": [
+    "Arial"
+  ],
+  "accuracy": 0.0,
+  "training_time_minutes": 0.84,
+  "num_images": 4492,
+  "source_folder": "Font Dataset Large Color"
+}

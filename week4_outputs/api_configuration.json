@@ -1,0 +1,12 @@
+{
+  "gemini_api_configured": true,
+  "api_key_provided": true,
+  "fallback_mode": false,
+  "models_tried": [
+    "gemini-2.0-flash",
+    "gemini-1.5-flash",
+    "gemini-pro"
+  ],
+  "connection_test": "successful",
+  "timestamp": "2026-03-03T14:08:02.382096"
+}

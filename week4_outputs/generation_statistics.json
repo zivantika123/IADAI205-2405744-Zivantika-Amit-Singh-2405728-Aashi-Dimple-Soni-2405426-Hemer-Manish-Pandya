@@ -1,0 +1,13 @@
+{
+  "gemini_api_status": "active",
+  "generation_stats": {
+    "gemini_success": 5,
+    "gemini_failed": 0,
+    "fallback_used": 0,
+    "total_generated": 5
+  },
+  "total_companies_processed": 6,
+  "total_slogans_generated": 5,
+  "gemini_success_rate": 1.0,
+  "analysis_timestamp": "2026-03-03T14:08:02.380787"
+}

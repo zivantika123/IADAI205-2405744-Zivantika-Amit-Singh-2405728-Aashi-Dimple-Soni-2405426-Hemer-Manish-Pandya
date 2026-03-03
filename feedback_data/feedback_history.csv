@@ -1,0 +1,23 @@
+timestamp,user_id,session_id,asset_type,asset_id,asset_name,rating,comment,sentiment_score
+2026-03-03T13:53:06.651470,user_001,session_001,logo,logo_001,Tech Logo Blue,5,"Perfect color scheme, very professional! The design perfectly captures our brand essence.",0.8478
+2026-03-03T13:53:06.679698,user_002,session_001,logo,logo_002,Healthcare Logo Green,4,"Clean and trustworthy, but could be more modern.",0.4854
+2026-03-03T13:53:06.690948,user_001,session_001,font,font_001,Montserrat,5,"Modern and clean, works perfectly for our tech brand.",0.7845
+2026-03-03T13:53:06.702445,user_003,session_002,font,font_002,Playfair Display,2,Too formal and old-fashioned for our startup.,0.0
+2026-03-03T13:53:06.713711,user_001,session_001,slogan,slogan_001,Innovate Your Future,5,Very catchy and memorable! Our team loves it.,0.6114
+2026-03-03T13:53:06.727454,user_002,session_001,slogan,slogan_002,Quality You Can Trust,4,"Good, but a bit generic. Could be more unique.",0.2382
+2026-03-03T13:53:06.738975,user_003,session_002,slogan,slogan_003,Experience Excellence,3,Okay but doesn't stand out from competitors.,0.1154
+2026-03-03T13:53:06.751510,user_001,session_001,animation,anim_001,Luxury Style Animation,5,Elegant and sophisticated. Perfect for our premium brand.,0.886
+2026-03-03T13:53:06.765111,user_002,session_001,animation,anim_002,Energetic Style Animation,4,"Fun and engaging, maybe a bit too fast.",0.6908
+2026-03-03T13:53:06.776573,user_001,session_001,campaign,camp_001,Social Media Campaign,3,Good strategy but duration felt too long. 60 days is excessive.,0.2382
+2026-03-03T13:53:06.788563,user_002,session_001,campaign,camp_002,Email Marketing Campaign,5,Excellent targeting and messaging! Great ROI.,0.8439
+2026-03-03T14:30:04.566595,user_001,session_001,logo,logo_001,Tech Logo Blue,5,"Perfect color scheme, very professional! The design perfectly captures our brand essence.",0.8478
+2026-03-03T14:30:04.597831,user_002,session_001,logo,logo_002,Healthcare Logo Green,4,"Clean and trustworthy, but could be more modern.",0.4854
+2026-03-03T14:30:04.613539,user_001,session_001,font,font_001,Montserrat,5,"Modern and clean, works perfectly for our tech brand.",0.7845
+2026-03-03T14:30:04.625284,user_003,session_002,font,font_002,Playfair Display,2,Too formal and old-fashioned for our startup.,0.0
+2026-03-03T14:30:04.636836,user_001,session_001,slogan,slogan_001,Innovate Your Future,5,Very catchy and memorable! Our team loves it.,0.6114
+2026-03-03T14:30:04.648389,user_002,session_001,slogan,slogan_002,Quality You Can Trust,4,"Good, but a bit generic. Could be more unique.",0.2382
+2026-03-03T14:30:04.659973,user_003,session_002,slogan,slogan_003,Experience Excellence,3,Okay but doesn't stand out from competitors.,0.1154
+2026-03-03T14:30:04.671350,user_001,session_001,animation,anim_001,Luxury Style Animation,5,Elegant and sophisticated. Perfect for our premium brand.,0.886
+2026-03-03T14:30:04.682672,user_002,session_001,animation,anim_002,Energetic Style Animation,4,"Fun and engaging, maybe a bit too fast.",0.6908
+2026-03-03T14:30:04.694407,user_001,session_001,campaign,camp_001,Social Media Campaign,3,Good strategy but duration felt too long. 60 days is excessive.,0.2382
+2026-03-03T14:30:04.718245,user_002,session_001,campaign,camp_002,Email Marketing Campaign,5,Excellent targeting and messaging! Great ROI.,0.8439
