@@ -12,3 +12,4 @@ protobuf==3.20.3
 deep-translator==1.9.1
 nltk==3.8.1
 seaborn==0.12.2
+deep-translator==1.1.5
